@@ -10,6 +10,6 @@ This is our GitHub organization for learning **HTML** and **CSS** through exerci
 
 ### Learn. Code. Debug. Repeat.
 
-> `<p> Web Fundamentals </>`
+> `<p> Web Fundamentals </p>`
 
 Happy coding! 
